@@ -1,0 +1,25 @@
+.sideBar{
+    color: #fff;
+    margin-top: 1rem;
+    margin-left: 7rem;
+    position: fixed ;
+    align-items: center;
+}
+.twitter-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    padding: 0;
+}
+.twitter-icon:hover{
+    border-radius: 50%;
+    background-color: #293648;
+    cursor: pointer;
+}
+.sidebarLinks{
+    margin-left: 5px;
+    margin-bottom: 1.5rem;
+    color: #fff;
+}
